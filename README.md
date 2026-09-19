@@ -22,6 +22,10 @@ The purpose of this project is to collect responses from users through different
 - HTML5
 - CSS3
 
+## Project Screenshot
+
+![Project Screenshot](survey_html_ss.png)
+
 ## 📂 Project Structure
 
 ```text
@@ -32,7 +36,3 @@ html_survey_form/
 ├── survey_html_ss.png
 └── README.md
 
-
-## Project Screenshot
-
-![Project Screenshot](survey_html_ss.png)
